@@ -12,7 +12,7 @@
     --text: #eef7fa;
     --muted: #8ea7b5;
     --primary: #13d7c4;
-    --primary-dark: #0ca99b;
+    --primary-dark: #c09fc5;
     --danger: #ff5d76;
     --warning: #f4c95d;
     --shadow: 0 18px 45px rgba(0, 0, 0, .25);
@@ -118,7 +118,7 @@ select {
 }
 
 .nav .nav-button:hover {
-    background: #45e7d8;
+    background: #d1b2d7;
     color: #06201d;
 }
 
@@ -258,7 +258,7 @@ tr:last-child td {
     font-size: 11px;
     font-weight: 700;
     background: rgba(19, 215, 196, .1);
-    color: #65eee1;
+    color: #ee65dc;
     border: 1px solid rgba(19, 215, 196, .18);
 }
 
@@ -288,7 +288,7 @@ tr:last-child td {
 }
 
 .btn-primary:hover {
-    background: #45e7d8;
+    background: #460e57;
 }
 
 .btn-secondary {
